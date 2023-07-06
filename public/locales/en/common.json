@@ -1,0 +1,16 @@
+{
+    "login": "Log in",
+    "signup": "Sign up",
+    "username": "Username",
+    "enterYourUsername": "Enter Your Username",
+    "password": "Password",
+    "enterYourPassword": "Enter Your Password",
+    "rememberMe": "Remember me",
+    "signIn": "Sign in",
+    "repeatPassword": "Repeat Password",
+    "repeatYourPassword": "Repeat Your Password",
+    "emailAddress": "Email Address",
+    "enterYourEmailAddress": "Enter Your Email Address",
+    "alreadyMember": "Already member",
+    "forgotPassword": "Forgot Password"
+}
